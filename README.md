@@ -1,7 +1,5 @@
 # Object-detection-classification-using-Mobile-Phone
 
-# Adithia88-Adithia88-object-detection-mobile-using-yolov4-tiny
-
 This is an implementation of object detecton using Yolov4 Tiny on Python 3, then implement it to mobile phone.
 
 ![Object Detection Sample](assets/6.png)
