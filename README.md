@@ -1,10 +1,10 @@
 # Object-detection-classification-using-Mobile-Phone
 
-This is an implementation of object detecton using Yolov4 Tiny on Python 3, then implement it to mobile phone.
+This is an implementation of object detecton + classification using Yolov4 Tiny and teachable machine on Python 3, then implement it to mobile phone.
 
-![Object Detection Sample](assets/6.png)
+![Object Detection Sample](assets/1.jpeg)
 
-Download This: https://drive.google.com/file/d/1NYSyy5QN9Z8F2tFDVuDSNxQp92psl_1F/view?usp=sharing
+Download This: https://drive.google.com/file/d/18MGnFbQW8LV-eeSb_mCtkKqLUPaTUoZk/view?usp=sharing
 
 The repository includes:
 * Deploy it to Mobile phone 
@@ -12,11 +12,11 @@ The repository includes:
 
 # Getting Started
 * Install Android Studio, u can download here https://developer.android.com/studio?hl=id
-* Download this repo and download the android package (https://drive.google.com/file/d/1NYSyy5QN9Z8F2tFDVuDSNxQp92psl_1F/view?usp=sharing)
+* Download this repo and download the android package (https://drive.google.com/file/d/18MGnFbQW8LV-eeSb_mCtkKqLUPaTUoZk/view?usp=sharing)
 * deploy on mobile phone
 
 
-# Deploy on android
+# Change Object Detection Model yolov4
 
 1. after u download this repo and android Package, go to that path using android Studio (exisiting project)
 
@@ -34,9 +34,12 @@ The repository includes:
 
 ![android studio ](assets/4.png)
 
-5. go to build - build APK
 
-![android studio ](assets/5.png)
+
+# Change Classification Model 
+
+
+
 
 # result 
 
