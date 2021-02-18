@@ -38,9 +38,24 @@ The repository includes:
 
 # Change Classification Model 
 
+1. just change model classifcation go to show explorer and change with your model
+
+![android studio ](assets/8.png)
+
+
+# Deploy On Android
+
+1. go to build - build APK
+
+![android studio ](assets/11.PNG)
+
+2. from here u get the app just put it to gdrive and download it (app-debug.apk)
+
+![android studio ](assets/12.PNG)
 
 
 
 # result 
 
-![android studio ](assets/6.png)
+![android studio ](assets/1.PNG)
+![android studio ](assets/2.PNG)
